@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EasyFlipViewPager.iml" filepath="$PROJECT_DIR$/EasyFlipViewPager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/EasyFlipViewPager-app.iml" filepath="$PROJECT_DIR$/app/EasyFlipViewPager-app.iml" group="EasyFlipViewPager/app" />
+      <module fileurl="file://$PROJECT_DIR$/easyflipviewpager/EasyFlipViewPager-easyflipviewpager.iml" filepath="$PROJECT_DIR$/easyflipviewpager/EasyFlipViewPager-easyflipviewpager.iml" group="EasyFlipViewPager/easyflipviewpager" />
+      <module fileurl="file://$PROJECT_DIR$/GitHubProjects-EasyFlipViewPager.iml" filepath="$PROJECT_DIR$/GitHubProjects-EasyFlipViewPager.iml" group="EasyFlipViewPager" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/easyflipviewpager/easyflipviewpager.iml" filepath="$PROJECT_DIR$/easyflipviewpager/easyflipviewpager.iml" />
     </modules>
